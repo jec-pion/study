@@ -1,6 +1,6 @@
 # Table of contents
 
-* [테스트 페이지](README.md)
+* [파이언넷 입사를 환영합니다.](README.md)
 
 ## hello.
 
