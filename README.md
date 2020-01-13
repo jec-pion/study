@@ -11,9 +11,13 @@
 
 기획 → 디자인 → UI개발\(웹퍼블리싱\) → 개발
 
+
+
 ### 교육자료
 
 {% file src=".gitbook/assets/web-standards1.pptx" caption="Day1" %}
+
+
 
 ### 강의 진행 순서
 
