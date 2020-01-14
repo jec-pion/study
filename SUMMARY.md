@@ -8,4 +8,5 @@
 * [시맨틱웹 : 요약](day1/sementic.md)
 * [웹접근성 지침 다운로드](day1/web-accessibility.md)
 * [meta robots](day1/meta-robots.md)
+* [Day1 - 과제](day1/day1.md)
 
