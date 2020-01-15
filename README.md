@@ -17,6 +17,8 @@
 
 {% file src=".gitbook/assets/web-standards1.pptx" caption="Day1" %}
 
+{% file src=".gitbook/assets/web-standards2.pptx" caption="Day2" %}
+
 
 
 ### 강의 진행 순서
