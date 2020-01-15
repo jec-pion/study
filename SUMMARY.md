@@ -12,6 +12,7 @@
 
 ## DAY2
 
+* [졸업식 일자 기록](day2/undefined-2.md)
 * [EditPuls 다운로드](day2/editpuls.md)
 * [교육자료 소스 공유](day2/undefined.md)
 
