@@ -10,3 +10,8 @@
 * [meta robots](day1/meta-robots.md)
 * [Day1 - 과제](day1/day1.md)
 
+## DAY2
+
+* [EditPuls 다운로드](day2/editpuls.md)
+* [교육자료 소스 공유](day2/undefined.md)
+
