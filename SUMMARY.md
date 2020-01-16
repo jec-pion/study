@@ -18,5 +18,5 @@
 
 ## Day3
 
-* [실습 완료 파일](day3/undefined.md)
+* [실습 완료 파일](day3/practice_fin.md)
 
