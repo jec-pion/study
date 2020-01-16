@@ -16,3 +16,7 @@
 * [EditPuls 다운로드](day2/editpuls.md)
 * [교육자료 소스 공유](day2/undefined.md)
 
+## Day3
+
+* [실습 완료 파일](day3/undefined.md)
+
