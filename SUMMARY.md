@@ -20,3 +20,7 @@
 
 * [실습 완료 파일](day3/practice_fin.md)
 
+## Day4
+
+* [최종 테스트](day4/final.md)
+
